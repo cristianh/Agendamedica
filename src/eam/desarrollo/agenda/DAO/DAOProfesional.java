@@ -11,6 +11,11 @@ import com.mysql.jdbc.ResultSet;
 import eam.desarollo.agenda.modelo.Profesional;
 import eam.desarrollo.agenda.interfaces.IntProfesional;
 
+/**
+ * 
+ * @author CRIS77IAN
+ *
+ */
 public class DAOProfesional implements IntProfesional {
 
 	
